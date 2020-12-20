@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://DongYu.github.io</id>
+    <id>https://GraceDongYu.github.io</id>
     <title>小钰的大千世界</title>
-    <updated>2020-12-16T09:22:30.014Z</updated>
+    <updated>2020-12-20T06:57:45.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://DongYu.github.io"/>
-    <link rel="self" href="https://DongYu.github.io/atom.xml"/>
+    <link rel="alternate" href="https://GraceDongYu.github.io"/>
+    <link rel="self" href="https://GraceDongYu.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://DongYu.github.io/images/avatar.png</logo>
-    <icon>https://DongYu.github.io/favicon.ico</icon>
+    <logo>https://GraceDongYu.github.io/images/avatar.png</logo>
+    <icon>https://GraceDongYu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小钰的大千世界</rights>
     <entry>
         <title type="html"><![CDATA[什么是年金险？]]></title>
-        <id>https://DongYu.github.io/post/tongshi-shi-me-shi-nian-jin-xian/</id>
-        <link href="https://DongYu.github.io/post/tongshi-shi-me-shi-nian-jin-xian/">
+        <id>https://GraceDongYu.github.io/post/tongshi-shi-me-shi-nian-jin-xian/</id>
+        <link href="https://GraceDongYu.github.io/post/tongshi-shi-me-shi-nian-jin-xian/">
         </link>
         <updated>2020-12-16T06:49:20.000Z</updated>
         <content type="html"><![CDATA[<p><strong>从时间角度看</strong><br>
@@ -42,8 +42,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[安邦保险解散，我的保单何去何从？]]></title>
-        <id>https://DongYu.github.io/post/anli-anbang/</id>
-        <link href="https://DongYu.github.io/post/anli-anbang/">
+        <id>https://GraceDongYu.github.io/post/anli-anbang/</id>
+        <link href="https://GraceDongYu.github.io/post/anli-anbang/">
         </link>
         <updated>2020-12-16T05:27:49.000Z</updated>
         <content type="html"><![CDATA[<p>2020年9月14日，<br>
@@ -64,12 +64,12 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[我们为什么需要保险？]]></title>
-        <id>https://DongYu.github.io/post/tongshi-wo-men-wei-shi-me-xu-yao-bao-xian/</id>
-        <link href="https://DongYu.github.io/post/tongshi-wo-men-wei-shi-me-xu-yao-bao-xian/">
+        <id>https://GraceDongYu.github.io/post/tongshi-wo-men-wei-shi-me-xu-yao-bao-xian/</id>
+        <link href="https://GraceDongYu.github.io/post/tongshi-wo-men-wei-shi-me-xu-yao-bao-xian/">
         </link>
         <updated>2020-12-16T05:05:54.000Z</updated>
         <content type="html"><![CDATA[<h1 id="什么是保险">什么是保险？</h1>
-<figure data-type="image" tabindex="1"><img src="https://DongYu.github.io/post-images/1608100425158.png" alt="保险定义-百度百科" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://GraceDongYu.github.io/post-images/1608100425158.png" alt="保险定义-百度百科" loading="lazy"></figure>
 <p>💰 <strong>保险的本质：金融工具</strong></p>
 <p>保险是解决因生命引起的财务问题，是唯一以人的生命为标的的金融工具。</p>
 <p>🔒 <strong>保险的底层属性：法律属性</strong></p>
@@ -100,7 +100,7 @@
 <li>用来保障自己晚年</li>
 </ul>
 <h1 id="保险的价值与意义">保险的价值与意义</h1>
-<figure data-type="image" tabindex="2"><img src="https://DongYu.github.io/post-images/1608098306510.png" alt="有无保险象限图" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://GraceDongYu.github.io/post-images/1608098306510.png" alt="有无保险象限图" loading="lazy"></figure>
 <p>💡 <strong>保险不会改变你的生活，但能让你的生活，不因遭遇不幸而被改变。</strong></p>
 <p>💡 <strong>保险不会让你突然富有，但能让你已有的财富，刻上你的名字。</strong></p>
 <h1 id="相关阅读">相关阅读：</h1>
@@ -133,8 +133,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[中华人民共和国保险法]]></title>
-        <id>https://DongYu.github.io/post/baoxianfa/</id>
-        <link href="https://DongYu.github.io/post/baoxianfa/">
+        <id>https://GraceDongYu.github.io/post/baoxianfa/</id>
+        <link href="https://GraceDongYu.github.io/post/baoxianfa/">
         </link>
         <updated>2020-12-16T04:08:11.000Z</updated>
         <content type="html"><![CDATA[<p>（1995年6月30日第八届全国人民代表大会常务委员会第十四次会议通过 根据2002年10月28日第九届全国人民代表大会常务委员会第三十次会议《关于修改〈中华人民共和国保险法〉的决定》第一次修正 2009年2月28日第十一届全国人民代表大会常务委员会第七次会议修订 根据2014年8月31日第十二届全国人民代表大会常务委员会第十次会议《关于修改〈中华人民共和国保险法〉等五部法律的决定》第二次修正 根据2015年4月24日第十二届全国人民代表大会常务委员会第十四次会议《关于修改〈中华人民共和国计量法〉等五部法律的决定》第三次修正）</p>
@@ -1049,8 +1049,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://DongYu.github.io/post/about/</id>
-        <link href="https://DongYu.github.io/post/about/">
+        <id>https://GraceDongYu.github.io/post/about/</id>
+        <link href="https://GraceDongYu.github.io/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -1064,13 +1064,13 @@
 <h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
 <p>公益志愿</p>
 <h2 id="联系我呀">📬 联系我呀</h2>
-<figure data-type="image" tabindex="1"><img src="https://DongYu.github.io/post-images/1608105021669.jpg" alt="微信名片" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://GraceDongYu.github.io/post-images/1608105021669.jpg" alt="微信名片" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://DongYu.github.io/post/hello-gridea/</id>
-        <link href="https://DongYu.github.io/post/hello-gridea/">
+        <id>https://GraceDongYu.github.io/post/hello-gridea/</id>
+        <link href="https://GraceDongYu.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
